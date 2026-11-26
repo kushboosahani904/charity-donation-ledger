@@ -1,0 +1,11 @@
+{
+  "data_file": "donations.json",
+  "csv_export_file": "summary_report.csv",
+  "chart_file": "donations_chart.png",
+  "log_file": "ledger.log",
+  "min_amount": 1.0,
+  "max_amount": 1000000.0,
+  "high_donation_threshold": 5000.0,
+  "database_file": "charity_ledger.db",
+  "storage_backend": "sqlite"
+}

@@ -1,0 +1,2 @@
+# Core application uses only the Python standard library.
+# Optional chart support: install matplotlib from requirements-optional.txt.

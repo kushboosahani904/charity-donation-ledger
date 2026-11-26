@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.tmp
+donations.json
+summary_report.csv
+donations_chart.png
+
+charity_ledger.db
+charity_ledger.db-shm
+charity_ledger.db-wal
